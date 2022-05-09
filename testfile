@@ -1,0 +1,6 @@
+Nze87xFXvRnu6K7
+
+mail bcc:"",body: "Hi Team,Please go thrugh the $(BUILD_URL) for more details.", cc:'team@xyz.com', from:"", replyTo: "", subject:'Job $(JOB_NAME}', to:'dev@xyz.com'
+        }
+
+Nze87xFXvRnu6K7
